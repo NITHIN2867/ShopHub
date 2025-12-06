@@ -1,6 +1,6 @@
-# Flipcart Backend API
+# ShopHub Backend API
 
-RESTful API for the Flipcart e-commerce platform built with Node.js, Express, and MongoDB.
+RESTful API for the ShopHub e-commerce platform built with Node.js, Express, and MongoDB.
 
 ## 🚀 Quick Start
 
