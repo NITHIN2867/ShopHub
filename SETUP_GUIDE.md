@@ -52,11 +52,11 @@ NODE_ENV=development
   - Go to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
   - Create free account
   - Create a cluster
-  - Get connection string and replace in `.env`:
+  - Get connection string and add to `.env` file:
     ```
-    MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/shophub
+    MONGODB_URI=<your-mongodb-atlas-connection-string>
     ```
-    ⚠️ **Replace `<username>` and `<password>` with your actual MongoDB Atlas credentials**
+    ⚠️ **Get your connection string from MongoDB Atlas dashboard and keep it secret in `.env` file**
 
 **Seed the database** (creates demo users and products):
 ```bash
