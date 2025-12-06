@@ -54,8 +54,9 @@ NODE_ENV=development
   - Create a cluster
   - Get connection string and replace in `.env`:
     ```
-    MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/shophub
+    MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/shophub
     ```
+    ⚠️ **Replace `<username>` and `<password>` with your actual MongoDB Atlas credentials**
 
 **Seed the database** (creates demo users and products):
 ```bash
