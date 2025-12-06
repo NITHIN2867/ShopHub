@@ -1,0 +1,15 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shopping bag icon -->
+  <g transform="translate(8, 12)">
+    <path d="M 2 6 L 2 18 Q 2 20 4 20 L 12 20 Q 14 20 14 18 L 14 6" 
+          stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 5 6 Q 5 2 8 2 Q 11 2 11 6" 
+          stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="2" y1="8" x2="14" y2="8" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+  </g>
+  
+  <!-- Text: ShopHub -->
+  <text x="32" y="33" font-family="'Segoe UI', 'Arial', sans-serif" font-size="20" font-weight="700" fill="white" letter-spacing="0.5">
+    ShopHub
+  </text>
+</svg>
